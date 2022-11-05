@@ -33,6 +33,11 @@ En caso de que te quede corto el ejercicio siguele con esto!
 - Bonus de Rutas (Navegación en la página)
 - Bonus de despliegue (Montar la página en línea con dominio gratuito)
 
+Entrega:
+- [Link del repositorio](https://github.com/EstrellaSilvaAstete/EstrellArt)
+
+
+
 ## El 4 de Noviembre se subirá el Form para que entreguen las prácticas. 
 ***¡Vámonos hasta el espacio y más allá Explorers!***
 
